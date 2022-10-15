@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Belka_boo\\Git_HUB\\Seminar_Csharp\\2seminar\\2seminar.csproj": {}
+    "/Users/belka.boo/Documents/dev/seminar/2seminar/2seminar.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Belka_boo\\Git_HUB\\Seminar_Csharp\\2seminar\\2seminar.csproj": {
+    "/Users/belka.boo/Documents/dev/seminar/2seminar/2seminar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Belka_boo\\Git_HUB\\Seminar_Csharp\\2seminar\\2seminar.csproj",
+        "projectUniqueName": "/Users/belka.boo/Documents/dev/seminar/2seminar/2seminar.csproj",
         "projectName": "2seminar",
-        "projectPath": "C:\\dev\\Belka_boo\\Git_HUB\\Seminar_Csharp\\2seminar\\2seminar.csproj",
-        "packagesPath": "C:\\Users\\ibelk\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Belka_boo\\Git_HUB\\Seminar_Csharp\\2seminar\\obj\\",
+        "projectPath": "/Users/belka.boo/Documents/dev/seminar/2seminar/2seminar.csproj",
+        "packagesPath": "/Users/belka.boo/.nuget/packages/",
+        "outputPath": "/Users/belka.boo/Documents/dev/seminar/2seminar/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ibelk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/belka.boo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }
