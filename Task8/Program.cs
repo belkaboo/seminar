@@ -9,13 +9,13 @@ if (N < 2)
  Console.WriteLine("Введите число побольше: ");  
  N = Convert.ToInt32(Console.ReadLine()); 
 }
-// начало
+
 int index = 1;
 while (index < N)
 {
     if (index % 2 == 0)
         {
-        Console.Write($"{index}, ");
+        Console.Write($"{index} ");
         index++;
         }
     else
@@ -23,4 +23,5 @@ while (index < N)
     index++;
     }
 }
-Console.Write(index);
+
+
