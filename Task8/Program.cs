@@ -1,10 +1,10 @@
-﻿// задача 8
+﻿// задача 8 четные от 1 до N
 Console.Clear();
 Console.WriteLine("Введите число: ");
 int N = Convert.ToInt32(Console.ReadLine());
 
-// проверка числа
-if (N < 2)
+// проверка числа для работы цикла
+if (N <= 2)
 {
  Console.WriteLine("Введите число побольше: ");  
  N = Convert.ToInt32(Console.ReadLine()); 

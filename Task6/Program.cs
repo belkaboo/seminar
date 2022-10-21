@@ -1,4 +1,4 @@
-﻿// Задача 6
+﻿// Задача 6 определение четности числа
 Console.Clear();
 Console.WriteLine("Введите число: ");
 int NumberA = Convert.ToInt32(Console.ReadLine());
